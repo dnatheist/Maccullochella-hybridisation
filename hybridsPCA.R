@@ -8,7 +8,7 @@
 ###################################################
 
 #PCA plot
-gl <- gl.dart
+load("snpsHybridData")
 system.time(pca1 <- glPca(gl[,], parallel=F, nf=3))
 require(ggplot2)
 gg <- data.frame(pca1$scores,cluster=pop(gl))
