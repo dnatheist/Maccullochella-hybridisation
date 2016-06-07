@@ -1,7 +1,7 @@
-# Maccullochella-hybridisation
+# Maccullochella Hybridisation in the Murrumbidgee River
 Data and scripts of hybridisation study of Murrumbidgee River Trout Cod (*Maccullochella macquariensis*) and Murray Cod (*M. peelii*).
 
-The paper, to be published in PeerJ if accepted  will be: *Who's Your Mama? Riverine Hybridisation of Threatened Freshwater Trout Cod and Murray Cod.* It is submitted for review 9 June 2016.
+The paper, to be published in [PeerJ](www.peerj.com) if accepted  will be: *Who's Your Mama? Riverine Hybridisation of Threatened Freshwater Trout Cod and Murray Cod.* It is submitted for review 9 June 2016.
 
 There are 4 files here. 
 
